@@ -6,7 +6,7 @@ The implement of the paper "ISPDiff: Interpretable Scale-Propelled Diffusion Mod
 # Train
 Run `model.py` for training
 # Citation
-@ARTICLE{202404qu,
-  author={Dong, Wenqian and Liu, Sen and Xiao, Song and Qu, Jiahui and Li, Yunsong},
-  title={ISPDiff: Interpretable Scale-Propelled Diffusion Model for Hyperspectral Image Super-Resolution},
+@ARTICLE{202404qu,  
+  author={Dong, Wenqian and Liu, Sen and Xiao, Song and Qu, Jiahui and Li, Yunsong},  
+  title={ISPDiff: Interpretable Scale-Propelled Diffusion Model for Hyperspectral Image Super-Resolution},  
   year={2024}}
